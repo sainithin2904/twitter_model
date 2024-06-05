@@ -10,3 +10,7 @@ GET /users/2 Get the user with ID 2
 POST /users-Create new user
 
 PATCH /users/1 Edit the user with ID 1
+Process..
+initiallize npm init
+--> npm i express
+--> bcrypt for hashing password
