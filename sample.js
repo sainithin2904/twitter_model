@@ -1,4 +1,4 @@
-onst express = require("express")
+const express = require("express")
 const post_data=require("./MOCK_DATA.json")
 const app = express();
 const PORT = 8000;
